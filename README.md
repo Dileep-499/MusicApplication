@@ -41,13 +41,13 @@ These prompts show I used AI as a partner to implement industry-standard pattern
 
 ### 2. Backend (Spring Boot)
  - ``` bash
-      ./mvnw spring-boot:run
+   ./mvnw spring-boot:run
    ```
 
 ### 3. Frontend (React)
   - ``` bash
-     npm install
-     npm run dev
+    npm install
+    npm run dev
     ```
 ---
 
